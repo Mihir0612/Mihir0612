@@ -12,9 +12,6 @@ I just compete BE degree in  Computer Science and Engineering<br>I'm Full-stack 
 ![](https://nirzak-streak-stats.vercel.app/?user=Mihir0612&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihir0612&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mihir0612&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Mihir0612&icon=0&color=3)](https://visitcount.itsvg.in)
 
